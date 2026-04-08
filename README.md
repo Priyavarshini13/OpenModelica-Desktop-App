@@ -45,7 +45,7 @@ python app.py
 
 🖥️ Usage Instructions:
 Click Browse
-Select the executable file (TwoConnectedTanks.exe) from the downloaded model folder
+Select the executable file (TwoConnectedTanks.exe) from the downloaded model folder 
 Enter:
 Start Time: 0
 Stop Time: 2
